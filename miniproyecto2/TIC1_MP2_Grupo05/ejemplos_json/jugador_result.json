@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-10-05T12:01:10-03:00",
+  "PlayerID": "P05",
+  "Action": "Result",
+  "EventID": "P05-ejemplo02",
+  "Stage": "R1",
+  "GameID": 1,
+  "Attempt": 1,
+  "Result": "Win",
+  "Score": 100
+}
